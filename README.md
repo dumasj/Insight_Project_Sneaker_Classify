@@ -1,7 +1,7 @@
-# Deploy Sneaker Classify [fast.ai](https://www.fast.ai) model with [Render](https://render.com) as Web App 
+# Deploy Sneaker Classify with [Render](https://render.com) as Web App 
 
 
-This repo is used to deploy a [fast.ai](https://github.com/fastai/fastai) Sneaker Image Classifier model on Render. The Sneaker Classifier app uploads a personal sneaker image and returns it’s dollar value in the sneaker resale market. The app described here is up at https://sneaker-collection.onrender.com/. Test it with your sneaker images.
+This repo is used to deploy a [fast.ai](https://github.com/fastai/fastai) Sneaker Image Classifier model on Render. The Sneaker Classify app uploads a personal sneaker image and returns it’s dollar value in the sneaker resale market. The app described here is up at https://sneaker-collection.onrender.com/. Test it with your sneaker images.
 
 
 ![picture](img/Sneaker_classify_screenshot2.png)
